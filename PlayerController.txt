@@ -1,1 +1,4 @@
 int edad;
+
+
+esta es la version 2 de mi script
